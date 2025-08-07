@@ -1,0 +1,53 @@
+# Victoria 3 Mod gitignore
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Compiled/Generated files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Package files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# User-specific files
+user_*.txt
+*.user
+
+# Cache files
+cache/
+*.cache
+
+# Paradox specific
+errors.log
+pdx_launcher_log.txt
